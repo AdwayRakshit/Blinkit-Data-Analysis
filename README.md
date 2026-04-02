@@ -1,4 +1,4 @@
-#  Sales Performance Dashboard (Power BI)
+#  Blinkit Performance Dashboard (Power BI)
 
 ##  Project Overview
 This project demonstrates an **end-to-end data analytics workflow**, where raw retail sales data is transformed into actionable insights using **Power BI, DAX, and data modeling techniques**.
